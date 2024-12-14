@@ -1,1 +1,31 @@
 -> https://roadmap.sh/backend
+
+8. https://www.youtube.com/watch?v=2GAQVXGT_Zw -> Timeouts
+
+9. SOAP, REST , GRAPHQL , RPC 
+    -> HTTP 1.0/1.1 2 and 3
+    -> https://www.youtube.com/watch?v=u4LWEXDP7_M
+    -> https://www.youtube.com/watch?v=Yw4rkaTc0f8
+    -> https://www.youtube.com/watch?v=eRndYq8iTio 
+    -> https://www.youtube.com/watch?v=fVmQCnQ_EPs
+
+9. Containerization and virtualization -> https://www.youtube.com/watch?v=8qU3hZOXlBE
+    -> Physical Machine -> Virtual Machine -> Containers -> Container Orchestration -> Cloud
+    -> https://www.youtube.com/watch?v=9sAg7RooEDc -> Practical
+
+
+10. Learn how to structure Backend Code (Use Enterprise Pattern)
+    -> Controller(uses DTO) -> Service -> Repository -> DB(Separation of concern and Loose Coupling)
+    -> Check WinZO Backend Repo in Backup Folder(GameConsoleV2)
+    
+11. Try Java and Spring Boot
+
+12. Convert Social Media Project to End to End Microservices , Create Deployment Pipeline (Use GPT)
+
+-> Understand how deployment is done in Large traffic system -> Canary Deployment and Blue green Deployment
+-> How DB migration is Done?
+-> Fynd Infrastructure(CI/CD video)
+-> Fynd Microservice Architecture , API -Spec etc
+
+-> Understand Unit Testing,Scaling
+-> Understand Logging And Monitoring Tools
