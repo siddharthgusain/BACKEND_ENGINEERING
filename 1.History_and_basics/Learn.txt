@@ -1,28 +1,16 @@
-1. WHat is Single thread and Multithreaded Server ,
-    -> https://www.youtube.com/watch?v=N5Ky-mz6n-8 -> Synchronous and Asynchronous
-    ->  How Nodejs Works https://youtu.be/641_goNZGog?t=2787
-    -> https://www.youtube.com/watch?v=f9gUFy-9uCM&t=25s
-2. WireShark of loopback
+1. WireShark of loopback
     -> Simple Single Threaded Server
     -> Check 3 Way handshake
     -> Data Sending
     -> Connection close
-    -> Check Memory CPU with Single Threaded Server -> Make Loop and Open Localhost:8000 in 50 tabs
     -> Now Send file from Client to Server -> Check WireShark(Small web HTML and JS -> C++ SERVER SMALL)
 
 4. Making Server In Remote MAchine : https://youtu.be/JhpUch6lWMw?list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&t=606
 
-3. What Happens When Revisit (Client Server)
-
-5. https://www.youtube.com/watch?v=f9gUFy-9uCM&t=450s
-
-6. https://www.youtube.com/watch?v=o-EkdZW4zbA -> How many connection backend server can reach?
-
-7. What happens when query is sent from Server Machine to Database Machine
-
 8. https://www.youtube.com/watch?v=2GAQVXGT_Zw -> Timeouts
 
 9. SOAP, REST , GRAPHQL , RPC 
+    -> HTTP 1.0/1.1 2 and 3
     -> https://www.youtube.com/watch?v=u4LWEXDP7_M
     -> https://www.youtube.com/watch?v=Yw4rkaTc0f8
     -> https://www.youtube.com/watch?v=eRndYq8iTio 
