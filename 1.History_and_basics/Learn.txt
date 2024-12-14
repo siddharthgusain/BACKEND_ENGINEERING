@@ -9,6 +9,7 @@
     -> Data Sending
     -> Connection close
     -> Check Memory CPU with Single Threaded Server
+    -> Now Send file from Client to Server -> Check WireShark(Small web HTML and JS -> C++ SERVER SMALL)
 4. Making Server In Remote MAchine : https://youtu.be/JhpUch6lWMw?list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&t=606
 
 3. What Happens When Revisit (Client Server)
