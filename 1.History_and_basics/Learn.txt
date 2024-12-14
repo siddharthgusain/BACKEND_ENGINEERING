@@ -1,8 +1,4 @@
 1. WireShark of loopback
-    -> Simple Single Threaded Server
-    -> Check 3 Way handshake
-    -> Data Sending
-    -> Connection close
     -> Now Send file from Client to Server -> Check WireShark(Small web HTML and JS -> C++ SERVER SMALL)
 
 4. Making Server In Remote MAchine : https://youtu.be/JhpUch6lWMw?list=PLQnljOFTspQU6zO0drAYHFtkkyfNJw1IO&t=606
