@@ -1,31 +1,37 @@
 -> https://roadmap.sh/backend
 
-8. https://www.youtube.com/watch?v=2GAQVXGT_Zw -> Timeouts
+1. https://www.youtube.com/watch?v=2GAQVXGT_Zw -> Timeouts
 
-9. SOAP, REST , GRAPHQL , RPC 
+2. SOAP, REST , GRAPHQL , RPC 
     -> HTTP 1.0/1.1 2 and 3
     -> https://www.youtube.com/watch?v=u4LWEXDP7_M
     -> https://www.youtube.com/watch?v=Yw4rkaTc0f8
     -> https://www.youtube.com/watch?v=eRndYq8iTio 
     -> https://www.youtube.com/watch?v=fVmQCnQ_EPs
 
-9. Containerization and virtualization -> https://www.youtube.com/watch?v=8qU3hZOXlBE
+3. How Nodejs being Single Threaded -> Still handles Multiple Concurrent Request without Blocking?
+    -> https://www.youtube.com/watch?v=DaU1-XoANig
+    -> https://www.youtube.com/watch?v=gMtchRodC2I&t=95s
+
+4. How Java/Spring Boot/Any Multithreaded Differs from this ?
+    -> https://chatgpt.com/c/6759fe52-c49c-8005-add5-1c2544828e7a
+
+5. Learn how to structure Backend Code (Use Enterprise Pattern)
+    -> Controller(uses DTO) -> Service -> Repository -> DB(Separation of concern and Loose Coupling)
+    -> Check WinZO Backend Repo in Backup Folder(GameConsoleV2)
+
+6. Try Java and Spring Boot
+
+5. Containerization and virtualization -> https://www.youtube.com/watch?v=8qU3hZOXlBE
     -> Physical Machine -> Virtual Machine -> Containers -> Container Orchestration -> Cloud
     -> https://www.youtube.com/watch?v=9sAg7RooEDc -> Practical
 
-
-10. Learn how to structure Backend Code (Use Enterprise Pattern)
-    -> Controller(uses DTO) -> Service -> Repository -> DB(Separation of concern and Loose Coupling)
-    -> Check WinZO Backend Repo in Backup Folder(GameConsoleV2)
-    
-11. Try Java and Spring Boot
-
-12. Convert Social Media Project to End to End Microservices , Create Deployment Pipeline (Use GPT)
+8. Convert Social Media Project to End to End Microservices(Write in Spring Boot) , Create Whole CI/CD Deployment Pipeline (Use GPT)
+    -> Fynd Infrastructure(CI/CD video)
+    -> Fynd Microservice Architecture , API -Spec etc
+    -> https://www.youtube.com/watch?v=vFxQyZX84Ro&t=5080s
 
 -> Understand how deployment is done in Large traffic system -> Canary Deployment and Blue green Deployment
--> How DB migration is Done?
--> Fynd Infrastructure(CI/CD video)
--> Fynd Microservice Architecture , API -Spec etc
-
+-> How DB migration is Done? -> How Indexes are added in PROD , Schema Changes
 -> Understand Unit Testing,Scaling
 -> Understand Logging And Monitoring Tools
