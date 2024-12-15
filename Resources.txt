@@ -1,8 +1,6 @@
 -> https://roadmap.sh/backend
 
-1. https://www.youtube.com/watch?v=2GAQVXGT_Zw -> Timeouts
-
-2. SOAP, REST , GRAPHQL , RPC 
+1. SOAP, REST , GRAPHQL , RPC 
     -> HTTP 1.0/1.1 2 and 3
     -> https://www.youtube.com/watch?v=u4LWEXDP7_M
     -> https://www.youtube.com/watch?v=Yw4rkaTc0f8
