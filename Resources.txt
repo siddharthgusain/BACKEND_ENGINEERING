@@ -1,11 +1,14 @@
 -> https://roadmap.sh/backend
 
+-> HTTP 1.0/1.1 2 and 3
+
 1. SOAP, REST , GRAPHQL , RPC 
-    -> HTTP 1.0/1.1 2 and 3
-    -> https://www.youtube.com/watch?v=u4LWEXDP7_M
-    -> https://www.youtube.com/watch?v=Yw4rkaTc0f8
-    -> https://www.youtube.com/watch?v=eRndYq8iTio 
-    -> https://www.youtube.com/watch?v=fVmQCnQ_EPs
+    -> https://www.youtube.com/watch?v=it8ybkQuAh8&t=46s -> SOAP
+    -> https://www.youtube.com/watch?v=M3XQ6yEC51Q&pp=ygURcmVzdCBodXNzZW4gbmFzaXI%3D -> REST
+    -> https://www.youtube.com/watch?v=fVmQCnQ_EPs -> GRAPHQL
+    -> https://www.youtube.com/watch?v=u4LWEXDP7_M -> GRPC
+    -> https://www.youtube.com/watch?v=Yw4rkaTc0f8 -> RPC
+    -> https://www.youtube.com/watch?v=eRndYq8iTio -> RPC
 
 3. How Nodejs being Single Threaded -> Still handles Multiple Concurrent Request without Blocking?
     -> https://www.youtube.com/watch?v=DaU1-XoANig
@@ -20,7 +23,7 @@
 
 6. Try Java and Spring Boot
 
-5. Containerization and virtualization -> https://www.youtube.com/watch?v=8qU3hZOXlBE
+5. Duel Boot, Containerization and virtualization -> https://www.youtube.com/watch?v=8qU3hZOXlBE
     -> Physical Machine -> Virtual Machine -> Containers -> Container Orchestration -> Cloud
     -> https://www.youtube.com/watch?v=9sAg7RooEDc -> Practical
 
@@ -29,7 +32,9 @@
     -> Fynd Microservice Architecture , API -Spec etc
     -> https://www.youtube.com/watch?v=vFxQyZX84Ro&t=5080s
 
--> Understand how deployment is done in Large traffic system -> Canary Deployment and Blue green Deployment
+9. Learn any Cloud Service Provider in Depth by deploying Project end to end with CI/CD
+
+-> Understand how deployment is done in Large traffic system -> Canary Deployment and Blue green Deployment, Rolling Deployments
 -> How DB migration is Done? -> How Indexes are added in PROD , Schema Changes
 -> Understand Unit Testing,Scaling
 -> Understand Logging And Monitoring Tools

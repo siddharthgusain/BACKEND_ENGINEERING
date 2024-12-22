@@ -12,7 +12,7 @@ const std::string UPLOAD_DIR = "./";
 
 void handleFileUpload(SOCKET clientSocket)
 {
-    char buffer[8192];
+    char buffer[8192]; // Local Variable for Process Memory
     std::string requestBody;
     bool isPostMethod = false;
     bool isFileSection = false;
