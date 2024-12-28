@@ -1,16 +1,12 @@
 -> https://roadmap.sh/backend
 
--> TLS , SSL , HTTPS in depth
-
--> Multiple Headers in HTTP , Response Code -> https://developer.mozilla.org/en-US/docs/Web/HTTP
-
 1. SOAP, REST , GRAPHQL , RPC 
     -> https://www.youtube.com/watch?v=it8ybkQuAh8&t=46s -> SOAP
     -> https://www.youtube.com/watch?v=M3XQ6yEC51Q&pp=ygURcmVzdCBodXNzZW4gbmFzaXI%3D -> REST
     -> https://www.youtube.com/watch?v=fVmQCnQ_EPs -> GRAPHQL
-    -> https://www.youtube.com/watch?v=u4LWEXDP7_M -> GRPC
     -> https://www.youtube.com/watch?v=Yw4rkaTc0f8 -> RPC
     -> https://www.youtube.com/watch?v=eRndYq8iTio -> RPC
+    -> https://www.youtube.com/watch?v=u4LWEXDP7_M -> GRPC
 
 3. How Nodejs being Single Threaded -> Still handles Multiple Concurrent Request without Blocking?
     -> https://www.youtube.com/watch?v=DaU1-XoANig
@@ -18,6 +14,8 @@
 
 4. How Java/Spring Boot/Any Multithreaded Differs from this ?
     -> https://chatgpt.com/c/6759fe52-c49c-8005-add5-1c2544828e7a
+
+5.-> How to Build HTTPS nodejs Server not HTTP
 
 5. Learn how to structure Backend Code (Use Enterprise Pattern)
     -> Controller(uses DTO) -> Service -> Repository -> DB(Separation of concern and Loose Coupling)
@@ -29,7 +27,8 @@
     -> Physical Machine -> Virtual Machine -> Containers -> Container Orchestration -> Cloud
     -> https://www.youtube.com/watch?v=9sAg7RooEDc -> Practical
 
-8. Convert Social Media Project to End to End Microservices(Write in Spring Boot) , Create Whole CI/CD Deployment Pipeline (Use GPT)
+8. Convert Social Media Project to End to End Microservices(Write in Spring Boot)
+    -> Create Whole CI/CD Deployment Pipeline (Use GPT)
     -> Fynd Infrastructure(CI/CD video)
     -> Fynd Microservice Architecture , API -Spec etc
     -> https://www.youtube.com/watch?v=vFxQyZX84Ro&t=5080s
